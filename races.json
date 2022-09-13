@@ -13,11 +13,11 @@
           "season": "2021",
           "round": "1",
           "url": "http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix",
-          "raceName": "Nachos Grand Prix",
+          "raceName": "Monaco Grand Prix",
           "Circuit": {
             "circuitId": "bahrain",
             "url": "http://en.wikipedia.org/wiki/Bahrain_International_Circuit",
-            "circuitName": "Bahrain International Circuit",
+            "circuitName": "Circuit de Monaco",
             "Location": {
               "lat": "26.0325",
               "long": "50.5106",
